@@ -4,7 +4,7 @@ using System.Text;
 using System.IO;
 using System.Runtime.InteropServices;
 
-namespace FlyPig.Util
+namespace FlyPig.Utility
 {
     /// <summary>
     /// INI文件操作辅助类
