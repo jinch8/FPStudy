@@ -1,0 +1,4 @@
+D:\CSharp\Test7\FPStudy\FlyPigUtil\bin\Debug\FlyPigUtil.dll
+D:\CSharp\Test7\FPStudy\FlyPigUtil\bin\Debug\FlyPigUtil.pdb
+D:\CSharp\Test7\FPStudy\FlyPigUtil\obj\Debug\FlyPigUtil.dll
+D:\CSharp\Test7\FPStudy\FlyPigUtil\obj\Debug\FlyPigUtil.pdb

@@ -1,0 +1,11 @@
+D:\CSharp\Test7\FPStudy\FPStudy\bin\Debug\FPStudy.exe.config
+D:\CSharp\Test7\FPStudy\FPStudy\obj\x86\Debug\FPStudy.csprojResolveAssemblyReference.cache
+D:\CSharp\Test7\FPStudy\FPStudy\obj\x86\Debug\FPStudy.Form1.resources
+D:\CSharp\Test7\FPStudy\FPStudy\obj\x86\Debug\FPStudy.Properties.Resources.resources
+D:\CSharp\Test7\FPStudy\FPStudy\obj\x86\Debug\FPStudy.csproj.GenerateResource.Cache
+D:\CSharp\Test7\FPStudy\FPStudy\bin\Debug\FPStudy.exe
+D:\CSharp\Test7\FPStudy\FPStudy\bin\Debug\FPStudy.pdb
+D:\CSharp\Test7\FPStudy\FPStudy\bin\Debug\FlyPigUtil.dll
+D:\CSharp\Test7\FPStudy\FPStudy\bin\Debug\FlyPigUtil.pdb
+D:\CSharp\Test7\FPStudy\FPStudy\obj\x86\Debug\FPStudy.exe
+D:\CSharp\Test7\FPStudy\FPStudy\obj\x86\Debug\FPStudy.pdb
